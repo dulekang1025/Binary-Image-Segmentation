@@ -12,4 +12,4 @@ The program has 3 arguments: an input image, a configuration file that provides 
 An example input output is shown below where left is the input and right is the output. The input image and the configuration file is provided together with the source code.    
 ![avatar](https://github.com/dulekang1993/Binary-Image-Segmentation/blob/master/example.png)   
 
-Reference : Project Description of project 1 of COMP 6651 – Winter 2018 by Dr. Tiberiu Popa
+Reference : Project Description of p1 for COMP 6651 – Winter 2019 by Dr. Tiberiu Popa, Concordia University.
